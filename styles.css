@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.card {
+    padding: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.cardstilo {
+    position: relative; /* Necesario para posicionar el botón en relación con la tarjeta */
+    padding-bottom: 60px;
+}
+
+.btn-position {
+    position: absolute;
+    bottom: 20px; /* Ajuste para dejar margen inferior */
+    right: 20px;
+}
